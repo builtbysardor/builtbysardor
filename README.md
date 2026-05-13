@@ -59,23 +59,23 @@ I'm a developer who loves crafting **modern web applications**, **infrastructure
       <a href="https://portfolio-mocha-seven-22.vercel.app">🔗 Live Demo</a>
     </td>
     <td width="50%">
-      <h3>📋 <a href="https://github.com/builtbysardor/SentinelLog">SentinelLog</a></h3>
+      <h3>📋 <a href="https://github.com/builtbysardor/sentinellog">SentinelLog</a></h3>
       <p>Python-based log monitoring tool with real-time alerting, pattern detection, and structured log analysis.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📡 <a href="https://github.com/builtbysardor/Nexus-Pro">Nexus-Pro</a></h3>
+      <h3>📡 <a href="https://github.com/builtbysardor/nexus-pro">Nexus-Pro</a></h3>
       <p>Real-time infrastructure monitoring dashboard built with TypeScript. Visualizes system metrics and service health.</p>
     </td>
     <td width="50%">
-      <h3>🔧 <a href="https://github.com/builtbysardor/InfraWatch">InfraWatch</a></h3>
+      <h3>🔧 <a href="https://github.com/builtbysardor/infrawatch-monitoring-stack">InfraWatch</a></h3>
       <p>Production-grade monitoring stack using Prometheus, Grafana, Node Exporter, and Docker Compose.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🛡️ <a href="https://github.com/builtbysardor/ShieldCheck">ShieldCheck</a></h3>
+      <h3>🛡️ <a href="https://github.com/builtbysardor/ShieldCheck-Password-Security-Analyzer-">ShieldCheck</a></h3>
       <p>Password security analyzer that evaluates strength, detects common patterns, and provides improvement suggestions.</p>
     </td>
     <td width="50%">
