@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **17-year-old full-stack developer** from Samarkand, Uzbekistan. I build production-grade web applications, infrastructure monitoring tools, and cybersecurity systems — things that actually work in the real world.
+I'm a **18-year-old full-stack developer** from Samarkand, Uzbekistan. I build production-grade web applications, infrastructure monitoring tools, and cybersecurity systems — things that actually work in the real world.
 
 When I'm not coding, I train in **Taekwondo, Boxing & MMA** — that same discipline and focus goes into every project I ship.
 
