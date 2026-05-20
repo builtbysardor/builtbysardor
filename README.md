@@ -1,160 +1,90 @@
 <div align="center">
 
-# Hey, I'm Sardor 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sardor%20Turdiyev&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18" width="100%"/>
 
-### Full-Stack Developer · DevOps · Cybersecurity · Samarkand, Uzbekistan 🇺🇿
-
-<p align="center">
-  <a href="https://portfolio-mocha-seven-22.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:aturdiyev303@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/builtbysardor">
-    <img src="https://img.shields.io/badge/GitHub-builtbysardor-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/anonymous">
-    <img src="https://img.shields.io/badge/Telegram-@anonymous-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Security+Engineer+%F0%9F%94%90;DevOps+Enthusiast+%F0%9F%90%B3;17+y.o.+%7C+Samarkand%2C+Uzbekistan)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a **18-year-old full-stack developer** from Samarkand, Uzbekistan. I build production-grade web applications, infrastructure monitoring tools, and cybersecurity systems — things that actually work in the real world.
-
-When I'm not coding, I train in **Taekwondo, Boxing & MMA** — that same discipline and focus goes into every project I ship.
-
-```python
-sardor = {
-    "location":   "Samarkand, Uzbekistan 🇺🇿",
-    "age":        17,
-    "focus":      ["Full-Stack", "DevOps", "Cybersecurity"],
-    "stack":      ["Next.js", "FastAPI", "Python", "TypeScript", "Docker"],
-    "currently":  "Building security tools & monitoring systems",
-    "goal":       "Work internationally & ship real solutions",
-}
-```
+- I'm **Sardor Turdiyev**, a 17-year-old self-taught developer from **Samarkand, Uzbekistan** passionate about building production-grade systems.
+- I specialize in **Full-Stack Development**, **DevOps pipelines**, and **Cybersecurity tooling** — turning ideas into scalable, secure, and observable software.
+- Currently building **[Nexus Pro](https://nexus-pro-pi.vercel.app)** and **InfraWatch** — real-time infrastructure monitoring with Prometheus + Grafana.
+- Open to **collaborations, freelance projects**, and **internship opportunities** in software engineering or security.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**DevOps & Security**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Security-orange?style=flat-square)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🖥️ <a href="https://github.com/builtbysardor/nexus-pro">Nexus Pro</a></h3>
-      <p>Real-time infrastructure monitoring dashboard. Next.js + Node.js + WebSockets. Live CPU, RAM, disk, network, service health & alert management.</p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSocket-live-blue?style=flat-square" />
-    </td>
-    <td width="50%">
-      <h3>📡 <a href="https://github.com/builtbysardor/infrawatch-monitoring-stack">InfraWatch</a></h3>
-      <p>Production-ready monitoring stack: Prometheus + Grafana + Node Exporter + Docker Compose. One command to spin up a full observability platform.</p>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛡️ <a href="https://github.com/builtbysardor/sentinellog-real-time-threat-detection">SentinelLog v2</a></h3>
-      <p>Real-time SOC dashboard with FastAPI + WebSockets. Detects SSH brute-force, SQL injection, DDoS & more. Auto-blocks IPs scoring 85+.</p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSocket-live-blue?style=flat-square" />
-    </td>
-    <td width="50%">
-      <h3>🦠 <a href="https://github.com/builtbysardor/Antivirus-pro-">Antivirus Pro</a></h3>
-      <p>Enterprise cybersecurity dashboard with 360° radar scanning, VirusTotal & MetaDefender API integration, heuristic threat analytics.</p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/VirusTotal-API-394EFF?style=flat-square" />
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🟣 <a href="https://github.com/builtbysardor/-Phishing-Email-Detector-">PhishGuard AI</a></h3>
-      <p>100% local ML-powered phishing email detector. Naive Bayes classifier + FastAPI. Your emails never leave your device.</p>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/100%25_Offline-brightgreen?style=flat-square" />
-    </td>
-    <td width="50%">
-      <h3>🔐 <a href="https://github.com/builtbysardor/localizing-cipher-tool">CryptaVault</a></h3>
-      <p>Interactive Caesar & Vigenère cipher tool with real-time animated cipher wheel and 2,000-year cryptography timeline. Zero dependencies.</p>
-      <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Canvas_API-FF6B6B?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zero_Deps-00F0FF?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+## Tech Stack
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=builtbysardor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtbysardor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=builtbysardor&theme=tokyonight&hide_border=true" />
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### DevOps & Security
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=builtbysardor&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+| Project | Description | Live | Stack |
+|---------|-------------|------|-------|
+| **[Nexus Pro](https://github.com/builtbysardor/nexus-pro)** | Real-time infrastructure monitoring dashboard — CPU, RAM, disk, network at a glance | [🚀 Live Demo](https://nexus-pro-pi.vercel.app) | Next.js · TypeScript · WebSockets |
+| **[InfraWatch](https://github.com/builtbysardor/infrawatch-monitoring-stack)** | Production observability stack: Prometheus + Grafana + Node Exporter, one command deploy | — | Docker · Prometheus · Grafana |
+| **[SentinelLog SOC](https://github.com/builtbysardor/sentinellog-real-time-threat-detection)** | Real-time SOC dashboard detecting SSH brute-force, SQL injection, XSS attacks live | — | FastAPI · WebSockets · Python |
+| **[AV-Pro](https://github.com/builtbysardor/Antivirus-pro-)** | Multi-engine antivirus with VirusTotal + MetaDefender integration and SOC dashboard | — | Python · VirusTotal API |
+| **[PhishGuard](https://github.com/builtbysardor/-Phishing-Email-Detector-)** | ML-powered phishing detector — runs 100% locally, no data leaves your machine | — | Python · scikit-learn |
+
 </div>
 
 ---
 
+## GitHub Stats
+
 <div align="center">
 
-*"Code is my dojo — every project sharpens the blade."*
+<img src="https://github-readme-stats.vercel.app/api?username=builtbysardor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtbysardor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=ffffff" height="165"/>
 
-**⭐ Star some repos if they helped you — it means the world!**
+<img src="https://streak-stats.demolab.com?user=builtbysardor&theme=tokyonight&hide_border=true&background=0d1117&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" width="49%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=builtbysardor&color=blueviolet&style=flat-square)
+</div>
 
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mocha-seven-22.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aturdiyev303@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/builtbysardor)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/builtbysardor)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </div>
