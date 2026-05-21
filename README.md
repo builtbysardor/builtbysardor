@@ -10,7 +10,7 @@
 
 ## About Me
 
-- I'm **Sardor Turdiyev**, a 17-year-old self-taught developer from **Samarkand, Uzbekistan** passionate about building production-grade systems.
+- I'm **Sardor Buriyev**, a 18-year-old self-taught developer from **Samarkand, Uzbekistan** passionate about building production-grade systems.
 - I specialize in **Full-Stack Development**, **DevOps pipelines**, and **Cybersecurity tooling** — turning ideas into scalable, secure, and observable software.
 - Currently building **[Nexus Pro](https://nexus-pro-pi.vercel.app)** and **InfraWatch** — real-time infrastructure monitoring with Prometheus + Grafana.
 - Open to **collaborations, freelance projects**, and **internship opportunities** in software engineering or security.
