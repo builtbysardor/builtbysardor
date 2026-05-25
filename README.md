@@ -12,7 +12,7 @@
 
 - I'm **Sardor Buriyev**, an 18-year-old self-taught developer from **Samarkand, Uzbekistan** passionate about building production-grade systems.
 - I specialize in **Full-Stack Development**, **DevOps pipelines**, and **Cybersecurity tooling** — turning ideas into scalable, secure, and observable software.
-- Currently building **[Nexus Pro](https://github.com/builtbysardor/nexus-pro)** and **InfraWatch** — real-time infrastructure monitoring with Prometheus + Grafana.
+- Currently building **[Vantage](https://github.com/builtbysardor/vantage)** — a unified open-source observability platform: real-time metrics, logs, alerts, and ML anomaly detection in a single monorepo.
 - Actively seeking an **Ausbildung (Fachinformatiker Systemintegration)** to deepen my expertise in enterprise IT infrastructure.
 - Open to **collaborations, freelance projects**, and **internship opportunities** in software engineering or security.
 
@@ -50,13 +50,14 @@
 
 <div align="center">
 
-| Project | Description | Live | Stack |
-|---------|-------------|------|-------|
-| **[Nexus Pro](https://github.com/builtbysardor/nexus-pro)** | Real-time infrastructure monitoring dashboard — CPU, RAM, disk, network at a glance | [🚀 Live Demo](https://nexus-pro-pi.vercel.app) | Next.js · TypeScript · WebSockets |
-| **[InfraWatch](https://github.com/builtbysardor/infrawatch)** | Production observability stack: Prometheus + Grafana + Node Exporter, one command deploy | — | Docker · Prometheus · Grafana |
-| **[Sentinel SOC](https://github.com/builtbysardor/sentinel-soc)** | Real-time SOC dashboard detecting SSH brute-force, SQL injection, XSS attacks live | — | FastAPI · WebSockets · Python |
-| **[Antivirus Pro](https://github.com/builtbysardor/antivirus-pro)** | Multi-engine antivirus with VirusTotal + MetaDefender integration and SOC dashboard | — | Rust · Python · Next.js |
-| **[Phishing Detector](https://github.com/builtbysardor/phishing-detector)** | ML-powered phishing detector — runs 100% locally, no data leaves your machine | — | Python · scikit-learn |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Vantage](https://github.com/builtbysardor/vantage)** | 🚀 Flagship — Unified observability platform: Next.js 15 frontend, FastAPI + Node.js backends, Prometheus, Grafana, ML anomaly detection | Next.js · FastAPI · Docker · TypeScript |
+| **[AssetTrack](https://github.com/builtbysardor/assettrack)** | Production IT Asset Management — RBAC, JWT auth, Prisma/PostgreSQL, deployed on Vercel | Next.js · Prisma · NextAuth · PostgreSQL |
+| **[OnboardIQ](https://github.com/builtbysardor/onboardiq)** | Enterprise HR onboarding & offboarding automation with role-based workflows | Next.js · TypeScript · PostgreSQL |
+| **[Sentinel SOC](https://github.com/builtbysardor/sentinel-soc)** | Real-time SOC dashboard detecting SSH brute-force, SQL injection, XSS attacks live | FastAPI · WebSockets · Python |
+| **[Antivirus Pro](https://github.com/builtbysardor/antivirus-pro)** | Multi-engine antivirus with VirusTotal + MetaDefender integration and SOC dashboard | Rust · Python · Next.js |
+| **[Phishing Detector](https://github.com/builtbysardor/phishing-detector)** | ML-powered phishing detector — runs 100% locally, no data leaves your machine | Python · scikit-learn · FastAPI |
 
 </div>
 
