@@ -16,8 +16,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Vantage](https://github.com/builtbysardor/vantage) | Infrastructure monitoring platform — metrics, alerts, dashboards | Next.js · Node.js · Prometheus · Grafana |
-| [AssetTrack](https://github.com/builtbysardor/assettrack) | IT asset lifecycle manager — procurement to decommission | Next.js · PostgreSQL · Prisma |
-| [OnboardIQ](https://github.com/builtbysardor/onboardiq) | Enterprise HR onboarding/offboarding automation | Next.js · LDAP · PostgreSQL |
+| [AssetTrack](https://github.com/builtbysardor/assettrack) | IT asset + HR lifecycle manager — assets, onboarding, offboarding, LDAP provisioning | Next.js · PostgreSQL · Prisma · LDAP |
 
 ---
 
@@ -37,6 +36,7 @@
 
 | Project | Why archived |
 |---------|-------------|
+| [OnboardIQ](https://github.com/builtbysardor/onboardiq) | Merged into [AssetTrack](https://github.com/builtbysardor/assettrack) |
 | [infrawatch](https://github.com/builtbysardor/infrawatch) | Moved to [Vantage](https://github.com/builtbysardor/vantage) |
 | [it-asset-manager](https://github.com/builtbysardor/it-asset-manager) | Replaced by [AssetTrack v2](https://github.com/builtbysardor/assettrack) |
 | [nexus-pro](https://github.com/builtbysardor/nexus-pro) | Concept prototype |
