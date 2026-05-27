@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sardor Turdiyev
+# Sardor Buriyev
 
 **Full-Stack & Security Engineer**
 
